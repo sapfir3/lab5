@@ -116,6 +116,7 @@ int main() {
         printf("5: Сохранить массив\n");
         printf("6: Загрузить массив\n");
         printf("0: Выход\n");
+        printf("0: Выход\n");
 
         scanf_s("%d", &item);
 
